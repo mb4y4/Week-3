@@ -1,6 +1,9 @@
 {
+  "type": "module",
+  "name": "apis",
+  "version": "1.0.0",
+  "main": "script.js",
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "type": "module"  
+    "node-fetch": "^3.3.2"
   }
 }
